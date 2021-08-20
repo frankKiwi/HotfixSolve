@@ -1,6 +1,0 @@
-framework module ORPatchFile {
-  umbrella header "ORPatchFile-umbrella.h"
-
-  export *
-  module * { export * }
-}

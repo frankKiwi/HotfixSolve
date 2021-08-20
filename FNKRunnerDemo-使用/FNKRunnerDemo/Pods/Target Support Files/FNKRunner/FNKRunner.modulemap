@@ -1,6 +1,0 @@
-framework module FNKRunner {
-  umbrella header "FNKRunner-umbrella.h"
-
-  export *
-  module * { export * }
-}
