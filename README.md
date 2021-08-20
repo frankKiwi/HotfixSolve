@@ -142,3 +142,6 @@ git clone --recursive https://github.com/SilverFruity/OCRunner.git
 
 自己公司需要自己开发新的话还是推荐抄一下这三个库.怎么改就看各的发挥了.
 
+暂时移除了一部分代码,修改好再上传
+
+
