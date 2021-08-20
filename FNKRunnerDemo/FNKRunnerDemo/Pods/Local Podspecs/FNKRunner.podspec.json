@@ -1,0 +1,31 @@
+{
+  "name": "FNKRunner",
+  "version": "1.2.0",
+  "summary": "FNKRunner",
+  "description": "Execute Objective-C code Dynamically. iOS hotfix SDK.",
+  "homepage": "https://github.com/SilverFruity/FNKRunner",
+  "license": "MIT",
+  "authors": {
+    "SilverFruity": "xxx.qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/SilverFruity/OCRunner.git",
+    "tag": "1.2.0"
+  },
+  "source_files": "FNKRunner/**/*.{h,m,c,mm}",
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "vendored_libraries": "FNKRunner/libffi/libffi.a",
+  "dependencies": {
+    "ORPatchFile": [
+      "1.2.0"
+    ]
+  }
+}
