@@ -137,3 +137,8 @@ git clone --recursive https://github.com/SilverFruity/OCRunner.git
 
 
 
+第三种还是推荐mangofix
+也是可以通过App Store的.
+
+自己公司需要自己开发新的话还是推荐抄一下这三个库.怎么改就看各的发挥了.
+
