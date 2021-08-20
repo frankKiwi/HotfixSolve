@@ -1,0 +1,6 @@
+framework module Pods_OCRunnerDemoTests {
+  umbrella header "Pods-OCRunnerDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OCRunnerDemoTests/Pods-OCRunnerDemoTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ORPatchFile/ORPatchFile.framework
+${BUILT_PRODUCTS_DIR}/oc2mangoLib/oc2mangoLib.framework

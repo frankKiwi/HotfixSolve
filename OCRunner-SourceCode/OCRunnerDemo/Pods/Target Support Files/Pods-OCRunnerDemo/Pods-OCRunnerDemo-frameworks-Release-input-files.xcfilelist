@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-OCRunnerDemo/Pods-OCRunnerDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/OCRunner/OCRunner.framework
+${BUILT_PRODUCTS_DIR}/ORPatchFile/ORPatchFile.framework

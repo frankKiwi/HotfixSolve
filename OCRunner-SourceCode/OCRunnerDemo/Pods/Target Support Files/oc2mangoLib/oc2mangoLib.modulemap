@@ -1,0 +1,6 @@
+framework module oc2mangoLib {
+  umbrella header "oc2mangoLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
